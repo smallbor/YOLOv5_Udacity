@@ -7,7 +7,8 @@ https://public.roboflow.com/object-detection/self-driving-car
 ### Reference
 https://blog.paperspace.com/train-yolov5-custom-data/  
 https://towardsdatascience.com/how-to-train-a-custom-object-detection-model-with-yolo-v5-917e9ce13208  
-https://www.v7labs.com/blog/yolo-object-detection
+https://www.v7labs.com/blog/yolo-object-detection  
+https://learnopencv.com/custom-object-detection-training-using-yolov5/
 
 ### YouTube
 https://www.youtube.com/watch?v=LXLpXvrR5RI  
